@@ -7,7 +7,9 @@ const TableRow = ({ flight}) => {
     return (
         <tr>
             <td>✈</td>
-            {words?.map((word, _index) => <TableCell key={_index} word={word} />)}
+            {words?.map((word, _index) => (
+                <TableCell key={_index} word={word}  />
+            ))}
         </tr>
     );
 }
