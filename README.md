@@ -1,4 +1,4 @@
-**Technology used in this project**
+*Technology used in this project*
 
 # Getting Started with Create React App
 
